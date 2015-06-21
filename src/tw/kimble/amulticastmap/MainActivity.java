@@ -6,12 +6,12 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.example.amulticastmap.R;
-import com.google.android.m4b.maps.CameraUpdateFactory;
-import com.google.android.m4b.maps.GoogleMap;
-import com.google.android.m4b.maps.MapFragment;
-import com.google.android.m4b.maps.OnMapReadyCallback;
-import com.google.android.m4b.maps.model.LatLng;
-import com.google.android.m4b.maps.model.MarkerOptions;
+import com.google.android.gms.maps.CameraUpdateFactory;
+import com.google.android.gms.maps.GoogleMap;
+import com.google.android.gms.maps.MapFragment;
+import com.google.android.gms.maps.OnMapReadyCallback;
+import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.MarkerOptions;
 
 public class MainActivity extends Activity implements OnMapReadyCallback{
 	
