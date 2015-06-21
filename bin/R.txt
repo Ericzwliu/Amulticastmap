@@ -233,7 +233,7 @@ int drawable maps_watermark_dark 0x7f02007a
 int drawable maps_watermark_light 0x7f02007b
 int drawable powered_by_google_dark 0x7f02007c
 int drawable powered_by_google_light 0x7f02007d
-int id action_settings 0x7f07001a
+int id action_settings 0x7f07001b
 int id adjust_height 0x7f070001
 int id adjust_width 0x7f070002
 int id book_now 0x7f070012
@@ -247,6 +247,7 @@ int id grayscale 0x7f070017
 int id holo_dark 0x7f070008
 int id holo_light 0x7f070009
 int id hybrid 0x7f070004
+int id map 0x7f07001a
 int id match_parent 0x7f070010
 int id monochrome 0x7f070018
 int id none 0x7f070003
